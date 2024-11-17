@@ -15,9 +15,9 @@ export const categories: Category[] = [
       },
       {
         id: 2,
-        question: 'What is the chemical symbol for gold?',
+        question: 'What is the chemical symbol for Iron?',
         options: ['Ag', 'Au', 'Fe', 'Cu'],
-        correctAnswer: 1
+        correctAnswer: 3
       },
       {
         id: 3,
